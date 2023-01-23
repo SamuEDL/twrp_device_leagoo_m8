@@ -37,12 +37,12 @@ Finally execute these:
 
 ```
 . build/envsetup.sh
-lunch omni_w370-eng
+lunch omni_m8-eng
 mka recoveryimage ALLOW_MISSING_DEPENDENCIES=true # Only if you use minimal twrp tree.
 ```
 
 To test it:
 
 ```
-fastboot boot out/target/product/w370/recovery.img
+fastboot boot out/target/product/m8/recovery.img
 ```
