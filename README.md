@@ -4,6 +4,9 @@ TWRP device tree for Leagoo M8
 
 Note: Repository in tests, it is not recommended for day to day.
 
+## Bug:
+- Not booting.
+
 ## Device specification
 
 Basic   | Spec Sheet
