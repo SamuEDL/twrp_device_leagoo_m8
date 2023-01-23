@@ -1,5 +1,6 @@
-# twrp_device_doogee_x5max
-TWRP device tree for Doogee X5 MAX
+# twrp_device_leagoo_m8
+
+TWRP device tree for Leagoo M8
 
 ## Device specification
 
@@ -8,7 +9,7 @@ Basic   | Spec Sheet
 CPU     | QuadCore (4 x 1,5Ghz Cortex-A7)
 CHIPSET | MediaTek MT6580
 GPU     | Mali 400 MP GPU
-Memory  | 1GB
+Memory  | 2GB
 Android Version | 6.0
 Storage | 16GB
 Battery | 4000 mAh
@@ -29,7 +30,7 @@ repo sync
 Then add these projects to .repo/manifest.xml:
 
 ```xml
-<project path="https://github.com/SamuEDL/twrp_device_doogee_x5max" remote="github" revision="master" />
+<project path="https://github.com/SamuEDL/twrp_device_leagoo_m8" remote="github" revision="master" />
 ```
 
 Finally execute these:
