@@ -14,10 +14,10 @@ GPU     | Mali 400 MP GPU
 Memory  | 2GB
 Android Version | 6.0
 Storage | 16GB
-Battery | 4000 mAh
+Battery | 3500 mAh
 Display | 720 x 1280
-Rear Camera  | 8 MP
-Front Camera | 5 MP
+Rear Camera  | 13 MP
+Front Camera | 8 MP
 
 
 ## Compile
