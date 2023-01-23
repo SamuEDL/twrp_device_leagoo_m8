@@ -1,4 +1,4 @@
-LOCAL_PATH := device/doogee/w370
+LOCAL_PATH := device/leagoo/m8
 
 #$(shell mkdir -p $(OUT)/obj/KERNEL_OBJ/usr)
 
@@ -14,4 +14,4 @@ PRODUCT_COPY_FILES += \
 
 $(call inherit-product, build/target/product/full.mk)
 
-PRODUCT_NAME := w370
+PRODUCT_NAME := m8
