@@ -1,1 +1,1 @@
-add_lunch_combo omni_w370-userdebug
+add_lunch_combo omni_m8-userdebug
